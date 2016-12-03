@@ -1,3 +1,6 @@
+.edia
+npm-debug.log
+
 # Logs
 logs
 *.log
@@ -38,9 +41,9 @@ Thumbs.db
 /tsd_typings/
 
 # Dist #
+/public/js
 /dist
 /public/__build__/
-/public/js/
 /src/*/__build__/
 __build__/**
 .webpack.json
